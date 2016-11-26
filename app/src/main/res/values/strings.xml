@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GameScoring</string>
+    <string name="points_title">Points</string>
+</resources>
